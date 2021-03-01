@@ -27,5 +27,5 @@ To contribute your own project to the list, please follow the below guidelines. 
 
 - If your project expects a particular Voiceflow project to run properly, then include the `.vf` file of your project in a `/vf-src` folder under the root directory.
 - Include a descriptive README with clear installation instructions and steps on how to run your project.
-- **WARNING:** Do **NOT** include your Voiceflow API keys in your repository (or any other API keys). If you publish this information, other users will be able to target your specific project instance and **incur fees on your Voiceflow accoun**t. Please keep this information in your environment variables. It is your responsibility to avoid exposing your API keys to the public.
+- **WARNING:** Do **NOT** include your Voiceflow API keys in your repository (or any other API keys). If you publish this information, other users will be able to target your specific project instance and **incur fees on your Voiceflow account**. Please keep this information in your environment variables. It is your responsibility to avoid exposing your API keys to the public.
 
