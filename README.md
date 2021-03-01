@@ -1,2 +1,11 @@
-# rcjs-projects
-A mega-repo for projects integrations built using Voiceflow Runtime Client JS.
+# Voiceflow Runtime Client JS Projects
+
+---
+
+## Description
+
+This is a list of projects and integrations built by the community using Voiceflow's Runtime Client JS.
+
+
+
+## List of Projects
